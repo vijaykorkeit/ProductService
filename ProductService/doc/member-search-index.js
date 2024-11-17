@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.dailycodebuffer.ProductService.service","c":"ProductServiceImpl","l":"ProductServiceImpl()","u":"%3Cinit%3E()"}];updateSearchResults();
